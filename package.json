@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-css-html",
+  "version": "1.0.0",
+  "description": "Calculadora criada com HTML, CSS e Java Script",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusbr85/calculadora-css-html-js.git"
+  },
+  "author": "MvDeve (Mateus Veloso)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusbr85/calculadora-css-html-js/issues"
+  },
+  "homepage": "https://github.com/mateusbr85/calculadora-css-html-js#readme"
+}
